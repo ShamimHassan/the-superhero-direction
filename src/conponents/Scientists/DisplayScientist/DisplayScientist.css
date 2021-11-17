@@ -1,0 +1,90 @@
+.scientist-card{
+  padding: 15px;
+  border-radius: 5px;
+  background: linear-gradient(-40deg, #0187a8b9 83%, #5701a79f 17%);
+  box-shadow: #00000044 0px 10px 15px -3px, #00000059 0px 4px 6px -2px;
+  position: relative;
+  backdrop-filter: blur(2px);
+  color: #fff;
+  transition: transform .4s;
+}
+.scientist-card:hover{
+  transform: translateY(-5px);
+}
+.scientist-card::after{
+  position: absolute;
+  content: '';
+  width: 100px;
+  height: 100px;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  background: #00000025;
+  top: 0;
+  right: 0;
+  transform-origin: top right;
+  transition: transform 500ms linear;
+  z-index: -1;
+}
+.scientist-card:hover::after{
+  transform: scale(2.7);
+}
+
+.scientist-profile{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+table{
+  border-collapse: collapse;
+}
+table th, td{
+  padding: 5px 0;
+}
+table th{
+  text-align: left;
+  font-weight: 600;
+}
+table, .scientist-profile{
+  z-index: 2;
+}
+.select-btn{
+  border: none;
+  outline: none;
+  padding: 8px 15px;
+  display: block;
+  margin: 0 auto;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #fff;
+  background: #5700a8;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: all .4s;
+}
+.select-btn:hover{
+  background: #30015c;
+}
+.social-follow{
+  margin-top: 20px;
+  text-align: center;
+}
+
+.social-follow > i{
+  font-size: 16px;
+  margin: 0 6px;
+  padding: 10px;
+  background: #450094;
+  border-radius: 100px;
+  transition: all 300ms;
+  cursor: pointer;
+}
+.social-follow i:hover{
+  background: #240066;
+}

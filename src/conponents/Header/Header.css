@@ -1,0 +1,33 @@
+.header-content{
+  text-align: center;
+  color: #fff;
+  padding: 50px 0px;
+}
+.header-content h2{
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 36px;
+}
+.header-content h1{
+  letter-spacing: 2px;
+  font-size: 40px;
+  font-weight: 300;
+}
+.header-content h1 strong{
+  color: crimson;
+}
+.header-content h1 sup{
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 3px 8px;
+  background: #ce0a0a;
+  border-radius: 10px;
+}
+.heading-detail{
+  width: 60%;
+  margin: 15px auto;
+  font-size: 18px;
+
+}

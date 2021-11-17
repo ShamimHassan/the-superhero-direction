@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "ALEXANDER FLEMING",
+    "age": 73,
+    "country": "United Kingdom",
+    "lifetime": "1881 – 1955",
+    "discovery": "Medicine",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/100S.-Alexander-Fleming-1881-1955-251x251.jpg",
+    "salary": 33000
+  },
+  {
+    "id": 2,
+    "name": "LISE MEITNER",
+    "age": 89,
+    "country": "Austria",
+    "lifetime": "1878 – 1968",
+    "discovery": "Nuclear Fission",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/99S.-Lise-Meitner-1878-1968-282x282.jpg",
+    "salary": 42700
+  },
+  {
+    "id": 3,
+    "name": "HUMPHRY DAVY",
+    "age": 50,
+    "country": "United Kingdom",
+    "lifetime": "1778 – 1829",
+    "discovery": "Davy lamp",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/98S.-Humphry-Davy-1778-1829-698x698.jpg",
+    "salary": 15600
+  },
+  {
+    "id": 4,
+    "name": "JESSE ERNEST WILKINS",
+    "age": 87,
+    "country": "United States",
+    "lifetime": "1923 – 2011",
+    "discovery": "Mechanical Engineer",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/97S.-Jesse-Ernest-Wilkins-Jr.-1923-2011-280x280.jpg",
+    "salary": 14000
+  },
+  {
+    "id": 5,
+    "name": "SERGEI PAVLOVICH KOROLEV",
+    "age": 59,
+    "country": "Ukraine",
+    "lifetime": "1907 – 1966",
+    "discovery": "Astronautics",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/95S.-Sergei-Pavlovich-Korolev-1907-1966-385x385.png",
+    "salary": 12500
+  },
+  {
+    "id": 6,
+    "name": "WILHELM CONRAD ROENTGEN",
+    "age": 77,
+    "country": "Germany",
+    "lifetime": "1845 – 1923",
+    "discovery": "X-ray tube",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/94S.-Wilhelm-Conrad-Rontgen-1845-1923-334x334.jpg",
+    "salary": 16000
+  },
+  {
+    "id": 7,
+    "name": "JAMES JOSEPH SYLVESTER",
+    "age": 82,
+    "country": "United Kingdom",
+    "lifetime": "1814 – 1897",
+    "discovery": "Invariant Theory",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/93S.-James-Joseph-Sylvester-1814-1897-365x365.jpg",
+    "salary": 12000
+  },
+  {
+    "id": 8,
+    "name": "JOHN BARDEEN",
+    "age": 82,
+    "country": "United States",
+    "lifetime": "1908 – 1991",
+    "discovery": "Transistor",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/91S.-John-Bardeen-1908-1991-236x236.jpg",
+    "salary": 10000
+  },
+  {
+    "id": 9,
+    "name": "GEORG SIMON OHM",
+    "age": 65,
+    "country": "Germany",
+    "lifetime": "1789 – 1854",
+    "discovery": "Mathematician ",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/89S.-Georg-Simon-Ohm-1789-1854.jpg",
+    "salary": 30000
+  },
+  {
+    "id": 10,
+    "name": "JOSEPH FOURIER",
+    "age": 62,
+    "country": "France",
+    "lifetime": "1768 – 1830",
+    "discovery": "Greenhouse Effect",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/87S.-Jean-Baptiste-Joseph-Fourier-1768-1830-1-849x849.jpg",
+    "salary": 25000
+  },
+  {
+    "id": 11,
+    "name": "LUIGI GALVANI",
+    "age": 61,
+    "country": "Italy",
+    "lifetime": "1737 – 1798",
+    "discovery": "Animal Electricity",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/86S.-Luigi-Galvani-1737-1798-448x448.jpg",
+    "salary": 12500
+  },
+  {
+    "id": 12,
+    "name": "OTTO HAHN",
+    "age": 89,
+    "country": "Germany",
+    "lifetime": "1879 – 1968",
+    "discovery": "Uranium ",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/85S.-Otto-Hahn-1879-1968-347x347.jpg",
+    "salary": 32000
+  },
+  {
+    "id": 13,
+    "name": "ANTOON LORENTZ",
+    "age": 74,
+    "country": "Netherlands",
+    "lifetime": "1853 – 1928",
+    "discovery": "Electron Theory",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/84S.-Hendrik-Antoon-Lorentz-1853-1928-750x750.jpg",
+    "salary": 49000
+  },
+  {
+    "id": 14,
+    "name": "JAMES PRESCOTT",
+    "age": 70,
+    "country": "United Kingdom",
+    "lifetime": "1818 – 1889",
+    "discovery": "Joule",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/82S.-James-Prescott-Joule-1818-1889-272x272.jpg",
+    "salary": 18900
+  },
+  {
+    "id": 15,
+    "name": "CLAUDE BERNARD",
+    "age": 64,
+    "country": "France",
+    "lifetime": "1813 – 1878",
+    "discovery": "Physiologist ",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/80S.-Claude-Bernard-1813-1878-251x251.jpg",
+    "salary": 27690
+  },
+  {
+    "id": 16,
+    "name": "ENRICO FERMI",
+    "age": 53,
+    "country": "Italy",
+    "lifetime": "1901 – 1954",
+    "discovery": " Statistical Laws",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/79S.-Enrico-Fermi-1901-1954-501x501.jpg",
+    "salary": 23000
+  },
+  {
+    "id": 17,
+    "name": "EAN le ROND d’ALEMBERT",
+    "age": 65,
+    "country": "France",
+    "lifetime": "1717 – 1783",
+    "discovery": "Mathematical Principle.",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/74S.-Jean-le-Rond-dAlembert-1717-1783-486x486.jpg",
+    "salary": 15900
+  },
+  {
+    "id": 18,
+    "name": "HEINRICH HERTZ",
+    "age": 36,
+    "country": "Germany",
+    "lifetime": "1857 – 1894",
+    "discovery": "Photoelectric Effect",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/73S.-Heinrich-Hertz-1857-1894-247x247.jpg",
+    "salary": 99000
+  },
+  {
+    "id": 19,
+    "name": "ANDREAS VESALIUS",
+    "age": 49,
+    "country": "Belgium",
+    "lifetime": "1514 – 1564",
+    "discovery": "Sternum",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/71S.-Andreas-Vesalius-1514-1564-471x471.jpg",
+    "salary": 67000
+  },
+  {
+    "id": 20,
+    "name": "HANS CHRISTIAN OERSTED",
+    "age": 73,
+    "country": "Denmark",
+    "lifetime": "1777 – 1851",
+    "discovery": "Aluminium",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/70S.-Hans-Christian-Oersted-1777-1851-370x370.jpg",
+    "salary": 55000
+  },
+  {
+    "id": 21,
+    "name": "ANDREY KOLMOGOROV",
+    "age": 84,
+    "country": "Russia",
+    "lifetime": "1903 – 1987",
+    "discovery": "Number Theory",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/69S.-Andrey-Kolmogorov-1903-1987-332x332.jpg",
+    "salary": 43000
+  },
+  {
+    "id": 22,
+    "name": "CARL LINNAEUS",
+    "age": 71,
+    "country": "Sweden",
+    "lifetime": "1707 – 1778",
+    "discovery": "Binomial Nomenclature.",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/64S.-Carl-Linnaeus-1707-1778-372x372.jpg",
+    "salary": 81000
+  },
+  {
+    "id": 23,
+    "name": "CHRISTIAAN HUYGENS",
+    "age": 66,
+    "country": "Netherlands",
+    "lifetime": "1629 – 1695",
+    "discovery": "Pendulum Clock",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/63S.-Christiaan-Huygens-1629-%E2%80%93-1695-232x232.jpg",
+    "salary": 37000
+  },
+  {
+    "id": 24,
+    "name": "ALESSANDRO VOLTA",
+    "age": 82,
+    "country": "Italy",
+    "lifetime": "1745 – 1827",
+    "discovery": "Battery",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/62S.-Alessandro-Volta-1745-1827-222x222.jpg",
+    "salary": 63000
+  },
+  {
+    "id": 25,
+    "name": "JOSEPH LOUIS GAY-LUSSAC",
+    "age": 71,
+    "country": "France",
+    "lifetime": "1778 – 1850",
+    "discovery": "Boron",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/60S.-Joseph-Louis-Gay-Lussac-1778-1850-342x342.jpg",
+    "salary": 14000
+  },
+  {
+    "id": 26,
+    "name": "NIELS BOHR",
+    "age": 77,
+    "country": "Denmark",
+    "lifetime": "1885 – 1962",
+    "discovery": "Hydrogen Atom",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/59S.-Niels-Bohr-1885-1962.jpg",
+    "salary": 92000
+  },
+  {
+    "id": 27,
+    "name": "GEORGE WASHINGTON",
+    "age": 78,
+    "country": "United States",
+    "lifetime": "1864 – 1943",
+    "discovery": "Soybeans",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/58S.-George-Washington-Carver-1864-1943-336x336.jpg",
+    "salary": 75000
+  },
+  {
+    "id": 28,
+    "name": "ROBERT HOOKE",
+    "age": 67,
+    "country": "United Kingdom",
+    "lifetime": "1635 – 1703",
+    "discovery": "Universal Joint",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/57S.-Robert-Hooke-1635-1703-665x665.jpg",
+    "salary": 18000
+  },
+  {
+    "id": 29,
+    "name": "OMAR AL-KHAYYAM",
+    "age": 83,
+    "country": "Iran",
+    "lifetime": "1048 – 1131",
+    "discovery": "Geometrical Method",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/55S.-Omar-Al-Khayyam-1048-1131-690x690.jpg",
+    "salary": 46000
+  },
+  {
+    "id": 30,
+    "name": "JOHN von NEUMANN",
+    "age": 53,
+    "country": "Hungary",
+    "lifetime": "1903 – 1957",
+    "discovery": "Cellular Automata",
+    "picture": "https://www.sapaviva.com/wp-content/uploads/2017/06/54S.-John-von-Neumann-1903-1957.jpg",
+    "salary": 58000
+  }
+]

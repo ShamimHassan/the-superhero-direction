@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Loto', sans-serif;
+}
+.container{
+  width: 95%;
+  margin: 0 auto;
+}
+.scientists-container{
+  background: #460237d3 url(./images/background/body-bg-3.jpeg) center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: multiply;
+  padding: 40px 0 20px;
+}
+.header{
+  background: #04094dab url(./images/background/header-bg.jpg) center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+img{
+  max-width: 100%;
+}

@@ -1,0 +1,32 @@
+.selected-card{
+  display: flex;
+  align-items: center;
+  background: #ffffff91;
+  border-radius: 5px;
+  margin-top: 15px;
+  overflow: hidden;
+  backdrop-filter: blur(2px);
+  transition: transform .4s;
+}
+.selected-card:last-child{
+  margin-bottom: 15px;
+}
+.selected-card:hover{
+  transform: translate(-5px);
+}
+/* .card-image{
+  padding: 0;
+  margin: 0;
+} */
+.card-image img{
+  height: 80px;
+  /* width: 80px !important; */
+  padding: 0;
+  margin-bottom: -5px;
+}
+.seleceted-name{
+  padding: 10px 5px;
+}
+.seleceted-name h4{
+  text-transform: capitalize;
+}
